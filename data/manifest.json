@@ -1,0 +1,29 @@
+{
+  "manifestSurum": 1,
+  "paketSurum": "2026-08-28.1",
+  "efektifTarih": "2026-08-28",
+  "minUygulamaSurum": "0.6.9",
+  "aciklama": "6.8 hedefli doğruluk düzeltmeleri + SGK EK-4/A 21.08.2026 eki + SGK 2026/33 (28.08.2026 yürürlük: 114 pasif, ASIPEC/BRIKAVER barkod, ALANIVEN/FENTERIN/TORVENTA) + TİTCK SKRS 25.08.2026 ve Ruhsat 21.08.2026 kaynakları",
+  "olusturulmaTarihi": "2026-09-03T21:40:47.641Z",
+  "dosyalar": [
+    {
+      "yol": "data/aile-index.json",
+      "sha256": "fd149d2179f7af3249d37da6a1ce3999652cace16f375583425c15135bddf35d",
+      "boyut": 3275379
+    },
+    {
+      "yol": "data/ai-paketleri-v2.json",
+      "sha256": "9a4aeeab86f5851707eb20f08a50bd1b521da7da669b86e879a9764caefc441f",
+      "boyut": 8684767
+    },
+    {
+      "yol": "data/ai-paketleri-v3.json",
+      "sha256": "82b5848b3023d8a2c22358e751e879e6e3cb45cdbf3424055d54749f1ffecaab",
+      "boyut": 8565279
+    }
+  ],
+  "imza": {
+    "algoritme": "ed25519",
+    "deger": "KgElvVuD+rWujaiLDMzBuYFhvZ+YCWe2dZyvdy155xW0WFhNzd0PMV6QHJG1G+4i8Jzwd+z2BHMvOTatY4wHAw=="
+  }
+}

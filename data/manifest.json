@@ -4,26 +4,26 @@
   "efektifTarih": "2026-08-28",
   "minUygulamaSurum": "0.6.9",
   "aciklama": "6.8 hedefli doğruluk düzeltmeleri + SGK EK-4/A 21.08.2026 eki + SGK 2026/33 (28.08.2026 yürürlük: 114 pasif, ASIPEC/BRIKAVER barkod, ALANIVEN/FENTERIN/TORVENTA) + TİTCK SKRS 25.08.2026 ve Ruhsat 21.08.2026 kaynakları",
-  "olusturulmaTarihi": "2026-09-04T15:41:38.942Z",
+  "olusturulmaTarihi": "2026-09-04T17:48:06.277Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "f58ae3677785d134f9c798c34a76476c1bda9a4ec96818995a89c9362b03d4e7",
+      "sha256": "922b20e99c23352979e81c34b2a5f28089e87e75c83fdaedf005058983e242ba",
       "boyut": 3498215
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "c9e037b0feca19318081a5a6cf2d91ae8d4eed972a8462e0d24b50767c6af1ca",
+      "sha256": "33a062de2b917974d7d1bd718ff8c07e7dfab6e7c4070b15cc1ff9b7965b6de5",
       "boyut": 8684767
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "a433a2900c3d5d9b547b8eccf403d9e75a42425e6d6a6c1657ad62537917fc01",
+      "sha256": "1dbe7185dec6810954710817b665f3613a459533c09e62af6353d5e5ed64e58c",
       "boyut": 8565279
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "ttf6HkR3ffKKyR8/EtvYhVMwa+OgSxFnaaULsoYXDVNMC09l5ayk9hTgjfegkvLXHHZIsWxzJIEIi8ZOBNllAA=="
+    "deger": "bDp0JYe66I4j1roUzClvNGadf6yhnkUySxCr39t6rYm2+tryJKlNJrGqjsQbFVhS5x/kpZLMWioFSwccv7HNDg=="
   }
 }

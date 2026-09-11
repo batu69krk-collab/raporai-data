@@ -4,26 +4,26 @@
   "efektifTarih": "2026-09-10",
   "minUygulamaSurum": "0.6.9",
   "aciklama": "SUT-2026.08.29 AKTİF paketi + resmi SKRS İLAÇ 2026-09-08: gerçek kaynak korpusu, 71 dosya provenance, fail-closed ürün indexi ve güncel EK-4/E-F appendiks",
-  "olusturulmaTarihi": "2026-09-11T12:00:05.656Z",
+  "olusturulmaTarihi": "2026-09-11T12:56:34.418Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "f6bc864ed43ffd4efd4f246697f6cf3cb5ea69e999f7777a0a8e3dbad880cd78",
+      "sha256": "884c14b159b0413040ac204d8c4c9e54d0db17448303209f0ec8400d20cdb7d2",
       "boyut": 3512823
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "f1267153a22c4e2ca200f1af8cb8851a4dd077d40979fb3dbac0e68ed2165926",
+      "sha256": "3cabbe6b05dca4d246915d13a8edc2174c3a36d377a20539b2baaab875163ca0",
       "boyut": 11211863
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "7635703e44c0a35277032a297c76e5c1a5aaa41f2a74ad29e722c2960aad5173",
+      "sha256": "e75c5fb44a7454ba7387d662aaeb502e46f8df18ee322d83e0d0164d7b0ab50d",
       "boyut": 11136107
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "ajJ+6LJB0lfP3YtZQNDOQ6kGZoWctKoPVG4YhfEM8jjoY3FGOmV9AU6ZaaZS1dkRBxON6j97Em7uLaIL4BQVBg=="
+    "deger": "9TT+UWKltuZVTdDXqkMU88MATZ36GcEDPahFKaU1TpmlWswncsI8KMoDLJ6AfY/GK50y3mFyO6jzuc8FnMkGBQ=="
   }
 }

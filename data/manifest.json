@@ -1,29 +1,29 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-08-28.1",
-  "efektifTarih": "2026-08-28",
+  "paketSurum": "2026-09-11.1",
+  "efektifTarih": "2026-09-10",
   "minUygulamaSurum": "0.6.9",
-  "aciklama": "6.8 hedefli doğruluk düzeltmeleri + SGK EK-4/A 21.08.2026 eki + SGK 2026/33 (28.08.2026 yürürlük: 114 pasif, ASIPEC/BRIKAVER barkod, ALANIVEN/FENTERIN/TORVENTA) + TİTCK SKRS 25.08.2026 ve Ruhsat 21.08.2026 kaynakları",
-  "olusturulmaTarihi": "2026-09-04T20:45:13.191Z",
+  "aciklama": "SUT-2026.08.29 AKTİF paketi: gerçek kaynak korpusu + 70 dosya provenance + fail-closed ürün indexi + güncel EK-4/E-F appendiks",
+  "olusturulmaTarihi": "2026-09-11T10:14:30.103Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "aa663612e14fb3c1b6cc6038b5cc28bf152956a631f0628977c9edfd0749b6d8",
-      "boyut": 3498215
+      "sha256": "013fc8ce7b529b7be44e144460f629eeb2fd8a7a2e278011f226a84b25694b7a",
+      "boyut": 3512403
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "7332b65b40b7137c7d806285cde335a79dc07cef6cb55f864fb941936bcb7c86",
-      "boyut": 8684767
+      "sha256": "93e542bbb734649750167481480b92a90c8a08d3a9adc3b5f0748dc0938addb0",
+      "boyut": 11211883
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "15c6f4fb0d8d25d21d0c40027ae981c1ee6143398911ac0e31dd8bfb311d0db4",
-      "boyut": 8565279
+      "sha256": "834f81ed1c7ce6a379cd20de9df31919aa74b12030fc3a8a8afbaca79299b5bb",
+      "boyut": 11135755
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "8ouHFjmB2oV5A3Gi5tbwoeSdl0R3rhU6vLbFCcZGA7WiCrpSp/HSUDS7UHx99sKUMdgXCqASmDQG+luaRdM1DA=="
+    "deger": "1TEygXkOG62veMLQpptZU6Dx+Knmbhr76ks3VQXH5XZDmN/J0QHSckRBOgG4ZHMVDWLgo6yz9PcIi/Cr+N2qBA=="
   }
 }

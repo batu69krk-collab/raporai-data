@@ -1,29 +1,29 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-11.2",
+  "paketSurum": "2026-09-11.3",
   "efektifTarih": "2026-09-10",
   "minUygulamaSurum": "0.6.9",
-  "aciklama": "SUT-2026.08.29 AKTİF paketi + resmi SKRS İLAÇ 2026-09-08: gerçek kaynak korpusu, 71 dosya provenance, fail-closed ürün indexi ve güncel EK-4/E-F appendiks",
-  "olusturulmaTarihi": "2026-09-11T13:35:23.351Z",
+  "aciklama": "SUT-2026.08.29 AKTİF paketi + resmi TİTCK Ruhsatlı Ürünler 2026-09-11 + resmi SKRS İLAÇ 2026-09-08: gerçek kaynak korpusu, 72 dosya provenance, fail-closed ürün indexi ve güncel EK-4/E-F appendiks",
+  "olusturulmaTarihi": "2026-09-11T17:11:05.111Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "46526b8ded856283ed179099ccb61fea92011bfabf93284a9c6babd8dd119b62",
-      "boyut": 3512823
+      "sha256": "ee888f99ec09febb1673620725be39cde963da0980aa3c828a980dc3db9507c5",
+      "boyut": 3524103
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "8b87f7520ee7e304dd3f6bb5e4a23542f897228117393d95d5600063094a8121",
-      "boyut": 11211863
+      "sha256": "549a3028e2cb2c455e35bf68b954ab39ab463bc2fbeb8f5934b4e635d83439e5",
+      "boyut": 11220495
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "5f0c96f510458ecdedcfa5d8dd81a3d7d19819fa9af1d85f1d00b9232e8f2739",
-      "boyut": 11136107
+      "sha256": "bae40ae1fd3b06f586f761552d9eb088376a4f2f140f93c67f2272833b2d9079",
+      "boyut": 11089499
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "SgngtcSRBlNTfYEev254AdjKso5e6icPkTASeD8YFg3fl6gCL0zUryBDXF/FTfO9WGN7cWM6Bzc8Fj6mvJVBBQ=="
+    "deger": "BOTSXOjlVCw7ByNxqyze/8fIQpsRdM4FX0uOe+YnD1nalzH54i3Rffp0GPUhdVSdIVQCF75lJpY2exPW4nftAA=="
   }
 }

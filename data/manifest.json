@@ -1,29 +1,29 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-12.1",
-  "efektifTarih": "2026-09-10",
+  "paketSurum": "2026-09-12.2",
+  "efektifTarih": "2026-09-12",
   "minUygulamaSurum": "0.6.9",
-  "aciklama": "SUT-2026.08.29 AKTİF: Tolvaptan üçüncü basamak şartı resmî RG-32134/37 ile kesinleştirildi, aktif D vitamini kaynaksız branş koşulu kaldırıldı, source-linked 72 dosya provenansı ve GLM istemcisi",
-  "olusturulmaTarihi": "2026-09-12T09:40:37.805Z",
+  "aciklama": "SUT 4.2.65 diyabetik ayak EGF ailesi ve kaynak kanıtı eklendi; 0.6.20 doğruluk paketi",
+  "olusturulmaTarihi": "2026-09-12T14:30:29.936Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "e10074b95a9825cb696658a018076a3a48cb51709c429e3e24459ce699bbe22e",
-      "boyut": 3524339
+      "sha256": "e5331ccc6e147c14188d427317fec15cf2c7976ebc7b8f787a8ad543e0737523",
+      "boyut": 3526947
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "799ee1e99346e8d96f45a0f5c8281b4e4d6cf34ccc8046f9e43f341a222f0e9a",
-      "boyut": 11220723
+      "sha256": "692eee72739b2d62187af0bee864752bece5cac5541a2f3e210eaa9ab399f64c",
+      "boyut": 11229319
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "913e591c71a39ba3da871c8275f64c5c005a2f2d84612f854718ce6de1784783",
-      "boyut": 11089627
+      "sha256": "93a08c44512a08ba00d136cb0220b1a6c122cbdb224bdc01b77f510cb484b05f",
+      "boyut": 11096467
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "q0UGTnfp9QMU1Auq8ezMe6o9SKLtCfBD8Eu4FPy34g7KtHdGtaSKYDoi+hmbnsNoGmxyRHNNK9Bg5G8mfcY2DA=="
+    "deger": "vaUcj1HKkrQrhNqtkuKOyf2G6yd2MT9mf637c82D7i28dkbxrsrwZyafxNvLDTthN+CnKr3Yp6ovBkQVnEfmBw=="
   }
 }

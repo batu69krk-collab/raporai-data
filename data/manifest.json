@@ -4,26 +4,26 @@
   "efektifTarih": "2026-09-11",
   "minUygulamaSurum": "0.6.9",
   "aciklama": "SGK 2026/35 EK-4/A ilaç delta kaynağı işlendi; 4A güncel barkodları ve fail-closed eski barkod kapısı; 0.6.21 doğruluk paketi",
-  "olusturulmaTarihi": "2026-09-12T15:19:42.640Z",
+  "olusturulmaTarihi": "2026-09-12T15:49:21.983Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "0be304e6d24ea778b5c507b52ef7f7bbde76a7a70cc09a193852cd079a04410c",
+      "sha256": "b4a98163c117927297817532f6c15100bcbf57d7209d56f82d206b82e9ca8f64",
       "boyut": 3528319
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "5395b7fc30e0758a86b48bf06e79b1a32bdde1a7834034ba981eae7dcc3711b1",
+      "sha256": "a0e71f4f09ed40a4ef3e8e7433540bf5cb1e22f1ded9cb765301afbbab44a984",
       "boyut": 11230811
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "8d7a1ae962ed4c794353d0f27ba2e8971e2d4b55269fd6740f5cd4579cdfb2f7",
+      "sha256": "ec65bd623645003f8a355f8da3f46fe172769d3d8e84f606eebbb98882c2cafb",
       "boyut": 11097815
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "p3YldYJjA1Zud5uLiyCYlmqyHrF5cZxVS6kIDJL9hfCnZyMX2648d0pY/RShOM4XJBOqyeAJy7V5QM1yp2FcCQ=="
+    "deger": "RfH0IsOlIOfadIhp51nCGlEH+EtjN2JiB9Zd14z6MoOTggms0cZlpXCObRSVCEaCpg1PdUSa1IeCF39yfQ0kAQ=="
   }
 }

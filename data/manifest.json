@@ -1,29 +1,29 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-12.2",
-  "efektifTarih": "2026-09-12",
+  "paketSurum": "2026-09-12.3",
+  "efektifTarih": "2026-09-11",
   "minUygulamaSurum": "0.6.9",
-  "aciklama": "SUT 4.2.65 diyabetik ayak EGF ailesi ve kaynak kanıtı eklendi; 0.6.20 doğruluk paketi",
-  "olusturulmaTarihi": "2026-09-12T14:30:29.936Z",
+  "aciklama": "SGK 2026/35 EK-4/A ilaç delta kaynağı işlendi; 4A güncel barkodları ve fail-closed eski barkod kapısı; 0.6.21 doğruluk paketi",
+  "olusturulmaTarihi": "2026-09-12T15:19:42.640Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "e5331ccc6e147c14188d427317fec15cf2c7976ebc7b8f787a8ad543e0737523",
-      "boyut": 3526947
+      "sha256": "0be304e6d24ea778b5c507b52ef7f7bbde76a7a70cc09a193852cd079a04410c",
+      "boyut": 3528319
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "692eee72739b2d62187af0bee864752bece5cac5541a2f3e210eaa9ab399f64c",
-      "boyut": 11229319
+      "sha256": "5395b7fc30e0758a86b48bf06e79b1a32bdde1a7834034ba981eae7dcc3711b1",
+      "boyut": 11230811
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "93a08c44512a08ba00d136cb0220b1a6c122cbdb224bdc01b77f510cb484b05f",
-      "boyut": 11096467
+      "sha256": "8d7a1ae962ed4c794353d0f27ba2e8971e2d4b55269fd6740f5cd4579cdfb2f7",
+      "boyut": 11097815
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "vaUcj1HKkrQrhNqtkuKOyf2G6yd2MT9mf637c82D7i28dkbxrsrwZyafxNvLDTthN+CnKr3Yp6ovBkQVnEfmBw=="
+    "deger": "p3YldYJjA1Zud5uLiyCYlmqyHrF5cZxVS6kIDJL9hfCnZyMX2648d0pY/RShOM4XJBOqyeAJy7V5QM1yp2FcCQ=="
   }
 }

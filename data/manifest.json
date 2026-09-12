@@ -4,26 +4,26 @@
   "efektifTarih": "2026-09-10",
   "minUygulamaSurum": "0.6.9",
   "aciklama": "SUT-2026.08.29 AKTİF: Tolvaptan üçüncü basamak şartı resmî RG-32134/37 ile kesinleştirildi, aktif D vitamini kaynaksız branş koşulu kaldırıldı, source-linked 72 dosya provenansı ve GLM istemcisi",
-  "olusturulmaTarihi": "2026-09-12T08:15:06.536Z",
+  "olusturulmaTarihi": "2026-09-12T09:38:59.843Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "30fd671c26bc2d7a47117c850c4cf04e1ca7118ec63cf6b39c4b548232b2206e",
+      "sha256": "0d406cd51d6b060f91f89f5b1c831c54835de80735e196498e3afff91768dd4d",
       "boyut": 3524375
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "8ebda0fb4b8d764b9c58b2f4c44021199d0e3e14add1fcebe5ce506a926d2100",
+      "sha256": "20752900290a5d394ca52f7f50c1adaab8374ea64d5dbffc15b49d4e7278af87",
       "boyut": 11220763
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "1dddc239d3dcb61757ab2bcda3290cae6095063c8986b14193aefc031c671718",
+      "sha256": "29bfc1adad52f291c5c1c379c6062ca18613dd5681ee896f55a76899aff6c1d8",
       "boyut": 11089627
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "W0GfrGOMp4xqeq1rBH1oBjHkBdR9L94nrSQhjpWOIOaE8KByUbuw1HruJsoqC259nrurQptFdt//qe+Yr4zlBA=="
+    "deger": "PIWj6nLjFZAVEwOZB2EiWMLXK54jXPNs3Wkd3UK5XPcvqbGlLKR8sT9g9Mc06SxjnZ+04jfHnfsnkOtbBonwBA=="
   }
 }

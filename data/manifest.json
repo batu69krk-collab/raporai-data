@@ -1,29 +1,29 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-11.4",
+  "paketSurum": "2026-09-12.1",
   "efektifTarih": "2026-09-10",
   "minUygulamaSurum": "0.6.9",
-  "aciklama": "SUT-2026.08.29 AKTİF paketi + resmi TİTCK Ruhsatlı Ürünler 2026-09-11 + resmi SKRS İLAÇ 2026-09-08: gerçek kaynak korpusu, 72 dosya provenansı, fail-closed ürün indexi, güncel EK-4/E-F appendiks ve OpenCode Go GLM-5.3-Flash istemcisi",
-  "olusturulmaTarihi": "2026-09-11T19:15:45.939Z",
+  "aciklama": "SUT-2026.08.29 AKTİF: Tolvaptan üçüncü basamak şartı resmî RG-32134/37 ile kesinleştirildi, aktif D vitamini kaynaksız branş koşulu kaldırıldı, source-linked 72 dosya provenansı ve GLM istemcisi",
+  "olusturulmaTarihi": "2026-09-12T08:15:06.536Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "62b0027c699ce64a224ca788f3fc558659be9e2b9a57ce1b0e8ad62bf3a9beeb",
-      "boyut": 3524103
+      "sha256": "30fd671c26bc2d7a47117c850c4cf04e1ca7118ec63cf6b39c4b548232b2206e",
+      "boyut": 3524375
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "3c23bd7c609f27c4c92e0626fddf58fc2e22b695b69d43339ad904e314ec05ac",
-      "boyut": 11220495
+      "sha256": "8ebda0fb4b8d764b9c58b2f4c44021199d0e3e14add1fcebe5ce506a926d2100",
+      "boyut": 11220763
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "7abe1979af2c2d11bc8ccbe99ee584e797f59fb9355448c782035c024b9aed7b",
-      "boyut": 11089499
+      "sha256": "1dddc239d3dcb61757ab2bcda3290cae6095063c8986b14193aefc031c671718",
+      "boyut": 11089627
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "J2gRF6erzz2Y0il9StXcoACtmFEpRG3x0tUT09eFUv5F63yH3JWMs6t3a/e2SaVnjX+9c1e7Z5A9Yz7d7W7AAw=="
+    "deger": "W0GfrGOMp4xqeq1rBH1oBjHkBdR9L94nrSQhjpWOIOaE8KByUbuw1HruJsoqC259nrurQptFdt//qe+Yr4zlBA=="
   }
 }

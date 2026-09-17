@@ -1,34 +1,34 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-12.9",
+  "paketSurum": "2026-09-12.10",
   "efektifTarih": "2026-09-11",
-  "minUygulamaSurum": "0.6.28",
+  "minUygulamaSurum": "0.6.29",
   "aciklama": "SUT 4.2.43 IV iloprost (dijital ülser/skleroderma), 4.2.61 thiotepa ve 4.2.71 SC daratumumab (AL amiloidoz) yollari; 197 aile; 0.6.23 guvenlik ve dogruluk paketi",
-  "olusturulmaTarihi": "2026-09-17T16:19:30.927Z",
+  "olusturulmaTarihi": "2026-09-17T21:12:04.666Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "b9193d1594d5764a2cd846f65d31c5172cc209a3465f891732b831593d0e73df",
+      "sha256": "f3d8b99ddbb600a0a2a73046470138ec84c872e2ca3fe3e32a8444bb8187d517",
       "boyut": 3535759
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "9d5dbdc669f1a169065e190e73fb396d743482d82996e5d55282e858e8e0afed",
+      "sha256": "bca8524ab3b0de1e44fbbfbdc87fbaf0113b4b8601205dca6bac0a4e869580cf",
       "boyut": 11250055
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "3b566b2d8ab3b35d500e498b5a0d0f60f5f017e477a6446367753c213deb0ffc",
+      "sha256": "0e18e68a4aea5cd5a2207b2b28b117eb20dfd7888be184e20418749ad0566481",
       "boyut": 11093147
     },
     {
       "yol": "data/bilesim-sira.json",
-      "sha256": "5acbc183d2dfe5915c0d135dac93f892d764cb265aaa309604cdea127d5e16a9",
+      "sha256": "8e3c06d4b44e954e8445f2bd0979cef127798ed71a57f2ca6661e084c8f0af2e",
       "boyut": 5627
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "831pCc/aVmg1bumHj1Ik5FcgTJn9QzdA32O4S03ojC2Th+dsJtRjk47A/X7F8XMMx/HcMSXj5vrHbzXIq54YCg=="
+    "deger": "YI1qEq7vODDA/ZITJci7GSFA8HJKYAwn3yosXZLrCzbLfX/i2IswB6n08Jm9LMWihCZwv3bIMsSBJVAE2tAeBA=="
   }
 }

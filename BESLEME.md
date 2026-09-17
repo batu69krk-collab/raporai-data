@@ -10,7 +10,7 @@ Yayımlama (GitHub hesabında, depo adı birebir önemli):
    cd veri-besleme
    git init -b main
    git add data
-   git commit -m "veri paketi 2026-09-12.5"
+   git commit -m "veri paketi 2026-09-12.7"
    git remote add origin https://github.com/batu69krk-collab/raporai-data.git
    git push -u origin main
 

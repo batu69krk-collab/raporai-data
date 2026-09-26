@@ -1,34 +1,34 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-12.12",
+  "paketSurum": "2026-09-12.30",
   "efektifTarih": "2026-09-11",
-  "minUygulamaSurum": "0.6.34",
-  "aciklama": "RaporAI 0.6.34 F10 opt-in tamamlandı; 198 kural ailesi; 130/130 doğrulama; SGK/SKRS/TİTCK resmî provenans paketi",
-  "olusturulmaTarihi": "2026-09-19T17:27:41.207Z",
+  "minUygulamaSurum": "0.6.44",
+  "aciklama": "RaporAI 0.6.38 fail-closed evaluator kapanışı; MECASERMIN 4.2.6.B ayrımı; 201+ kural ailesi; SGK/SKRS/TİTCK resmî provenans paketi",
+  "olusturulmaTarihi": "2026-09-26T11:07:54.886Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "f1fd7138551ee81c3670eea48c3d53edfba73364bbc5d698aceb43d180415c98",
-      "boyut": 3535759
+      "sha256": "4849fdfd4633f4b1e297274cdf662513b02eb6de564fde5ea69f6413508d9673",
+      "boyut": 4346659
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "432bf9dfb86da2992635648ce535db306bc89ed2df4d84d66499656e53791801",
-      "boyut": 11250055
+      "sha256": "768911361933ede680d29548697418f919ae3a653db26b9685ff414c1fbf34b1",
+      "boyut": 12348247
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "812724871514c72416c92cb692e76a03df61c213a92c7b3da195c8f89b8baa15",
-      "boyut": 11093147
+      "sha256": "a1d050f35455c614e7867848188a66ac1d159c2c24261ff7c2a297837027a616",
+      "boyut": 11864859
     },
     {
       "yol": "data/bilesim-sira.json",
-      "sha256": "d3adf156e1b96286955c419c4885b1d07b747563b00ef595e75d73e535db3a3b",
-      "boyut": 5627
+      "sha256": "d0b937972c869b86fdde19fb6bde863d6887aa5df073d8b094a0c6723ce0469a",
+      "boyut": 5699
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "V6TZlPsQ1u8Ko/AkPd05jg6PaFTzIHH9n7/sTh1am9qDSifdeItlgDNMGwVUyC9q88pSnkKYMJo1ibNlKtCqCA=="
+    "deger": "eiSZEXuJ0BBfy2hOMmjGYbKuRVoZM2CbjIYhzisVWcXCmzUEaN0tNW+YiFvv3Sf6qPUJ8xaxCKhCvEw5gXZKBg=="
   }
 }

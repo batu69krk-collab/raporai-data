@@ -1,34 +1,34 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-09-12.30",
-  "efektifTarih": "2026-09-11",
-  "minUygulamaSurum": "0.6.44",
-  "aciklama": "RaporAI 0.6.38 fail-closed evaluator kapanışı; MECASERMIN 4.2.6.B ayrımı; 201+ kural ailesi; SGK/SKRS/TİTCK resmî provenans paketi",
-  "olusturulmaTarihi": "2026-09-26T11:07:54.886Z",
+  "paketSurum": "2026-10-02.3",
+  "efektifTarih": "2026-10-02",
+  "minUygulamaSurum": "0.6.54",
+  "aciklama": "RaporAI 0.6.54 veri paketi: SUT 02.10.2026 (RG 33388) + EK-4/A 02.10.2026 konsolide, 2026/37, olağanüstü 2, 2026/38 (U12 alias); veri paketi turu: motor içi aileler ve onaylı 'SUT özel şartı yok' listesi (38 barkod) imzalı pakette, EK-4/A ailesiz ürün negatif taraması (U1), TİTCK kontrollü madde barkod eşlemesi (U2); SGK/SKRS/TİTCK resmî provenans",
+  "olusturulmaTarihi": "2026-10-05T17:41:02.812Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "4849fdfd4633f4b1e297274cdf662513b02eb6de564fde5ea69f6413508d9673",
-      "boyut": 4346659
+      "sha256": "69e8e1eecccea9a69dc9a98bbb7b773f739cfeb30509130f7d9d6b16ffefce6d",
+      "boyut": 4422243
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "768911361933ede680d29548697418f919ae3a653db26b9685ff414c1fbf34b1",
-      "boyut": 12348247
+      "sha256": "9fa6b87432235de22c7b053b1b6bbd87befcc8938546bac2af88f110e1ce0e37",
+      "boyut": 12389359
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "a1d050f35455c614e7867848188a66ac1d159c2c24261ff7c2a297837027a616",
-      "boyut": 11864859
+      "sha256": "52fb8bb4a44ccfa56bd6931e0b9c333d74608d6385aaae546cf5f62805d748af",
+      "boyut": 11900595
     },
     {
       "yol": "data/bilesim-sira.json",
-      "sha256": "d0b937972c869b86fdde19fb6bde863d6887aa5df073d8b094a0c6723ce0469a",
+      "sha256": "a8399c06b4fe7ddf46e7a37bdbd343a035aba056241d0a9bc89d23821851f044",
       "boyut": 5699
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "eiSZEXuJ0BBfy2hOMmjGYbKuRVoZM2CbjIYhzisVWcXCmzUEaN0tNW+YiFvv3Sf6qPUJ8xaxCKhCvEw5gXZKBg=="
+    "deger": "C+JArsQKFRXyBGoaE6frwa1TPnx+RF4yg+/Y9KMwmMdHQYPk8BbmI30YLQBuWkHQ0BHVFzgQRMst3UYSmUbiAw=="
   }
 }

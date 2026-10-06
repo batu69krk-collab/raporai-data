@@ -2,33 +2,33 @@
   "manifestSurum": 1,
   "paketSurum": "2026-10-02.3",
   "efektifTarih": "2026-10-02",
-  "minUygulamaSurum": "0.6.54",
+  "minUygulamaSurum": "0.6.55",
   "aciklama": "RaporAI 0.6.54 veri paketi: SUT 02.10.2026 (RG 33388) + EK-4/A 02.10.2026 konsolide, 2026/37, olağanüstü 2, 2026/38 (U12 alias); veri paketi turu: motor içi aileler ve onaylı 'SUT özel şartı yok' listesi (38 barkod) imzalı pakette, EK-4/A ailesiz ürün negatif taraması (U1), TİTCK kontrollü madde barkod eşlemesi (U2); SGK/SKRS/TİTCK resmî provenans",
-  "olusturulmaTarihi": "2026-10-05T17:41:02.812Z",
+  "olusturulmaTarihi": "2026-10-06T16:16:05.959Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "69e8e1eecccea9a69dc9a98bbb7b773f739cfeb30509130f7d9d6b16ffefce6d",
+      "sha256": "d7c1d184e19e706c215f01a9853c0a359a202ee78327ec52980ca39de1474c1f",
       "boyut": 4422243
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "9fa6b87432235de22c7b053b1b6bbd87befcc8938546bac2af88f110e1ce0e37",
+      "sha256": "e712fa4297f58dd8428b53bd6af4737dd755b50bec5f988b0ddeb5b115e5cd1f",
       "boyut": 12389359
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "52fb8bb4a44ccfa56bd6931e0b9c333d74608d6385aaae546cf5f62805d748af",
+      "sha256": "4b0a6d0f263e27a8ebcc074fe86d26232d7ab5eaf4dda6125ac27ba3cfc42945",
       "boyut": 11900595
     },
     {
       "yol": "data/bilesim-sira.json",
-      "sha256": "a8399c06b4fe7ddf46e7a37bdbd343a035aba056241d0a9bc89d23821851f044",
+      "sha256": "9206ebebd80c5f5cee1635020b2ca954e3ec6e2ac35f17bc79284a3e82c47410",
       "boyut": 5699
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "C+JArsQKFRXyBGoaE6frwa1TPnx+RF4yg+/Y9KMwmMdHQYPk8BbmI30YLQBuWkHQ0BHVFzgQRMst3UYSmUbiAw=="
+    "deger": "l3cOna4/btQat9jYzPTm53dSkQ4oaYc+OoIg3IJIYx0I/eSjzxAe5VsZO7dBDRo1x3DcclnEpYn60Oi9h9chDQ=="
   }
 }

@@ -1,0 +1,17 @@
+{
+  "manifestTur": "raporai-uygulama",
+  "manifestSurum": 1,
+  "surum": "0.6.61",
+  "kurulum": {
+    "ad": "RaporAI-Setup-0.6.61.exe",
+    "url": "https://github.com/batu69krk-collab/raporai-data/releases/download/v0.6.61/RaporAI-Setup-0.6.61.exe",
+    "sha256": "0d274589cfc17bbbf2b0e554849388988c749c73a7d1e1ae2a65812e71dcc586",
+    "boyut": 138429826
+  },
+  "aciklama": "Kesinti riski yalnız kesin olanda; aile hekimi raporlu reçeteler (SUT 4.1(8)); veri paketi 2026-10-09.1",
+  "olusturulmaTarihi": "2026-10-07T20:40:39.014Z",
+  "imza": {
+    "algoritme": "ed25519",
+    "deger": "kuebVT1F4fWlmDJhb9GAziiR+/tfLwlWMjz8asy1adEqYnvpV1qCK+N5VJQFHG9ZAFzwR9BuUm/BNAVEXIoKCg=="
+  }
+}

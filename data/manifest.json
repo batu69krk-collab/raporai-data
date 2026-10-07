@@ -1,34 +1,34 @@
 {
   "manifestSurum": 1,
-  "paketSurum": "2026-10-02.3",
-  "efektifTarih": "2026-10-02",
-  "minUygulamaSurum": "0.6.60",
-  "aciklama": "RaporAI 0.6.54 veri paketi: SUT 02.10.2026 (RG 33388) + EK-4/A 02.10.2026 konsolide, 2026/37, olağanüstü 2, 2026/38 (U12 alias); veri paketi turu: motor içi aileler ve onaylı 'SUT özel şartı yok' listesi (38 barkod) imzalı pakette, EK-4/A ailesiz ürün negatif taraması (U1), TİTCK kontrollü madde barkod eşlemesi (U2); SGK/SKRS/TİTCK resmî provenans",
-  "olusturulmaTarihi": "2026-10-07T17:27:05.698Z",
+  "paketSurum": "2026-10-09.1",
+  "efektifTarih": "2026-10-09",
+  "minUygulamaSurum": "0.6.61",
+  "aciklama": "EK-4/A 2026/39",
+  "olusturulmaTarihi": "2026-10-07T20:27:06.517Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "cc0e705cfa0cf72637b883321da28c36bfd9c8608dc3db936b9291fecb5d9acf",
-      "boyut": 4422243
+      "sha256": "92137d2790075d5c96ce5f015c6988c3682a89c011253355945d7dedf4e670fd",
+      "boyut": 4448471
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "2717b3828d97d49fee6dba88e2bd7a9ff06f391d0410556c1408823b3846ef67",
-      "boyut": 12389359
+      "sha256": "74ef4f67330a0bee3447d207b4330786a33c05c605e5697ae1535beeebc5a42b",
+      "boyut": 12407611
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "0694b56935252af17e9c06ab98a9ad4a0a55efc93abbc9322b690c200dc1fffc",
-      "boyut": 11900595
+      "sha256": "ab179ba13cc329592d91b35f32c04739d3e6cc257a0299cdd0c141be6cdee4b7",
+      "boyut": 11919383
     },
     {
       "yol": "data/bilesim-sira.json",
-      "sha256": "18e6a078c1b4fb0cb8eb518afed602a12db94e630eeb7d80513d2aa3720a4ab6",
+      "sha256": "e7b67e999401db04c1594a9c955291b7090a8ab61bb99b202bd27b7672844418",
       "boyut": 5699
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "DQUk4Y8j+ezd7z6mXepHW6QsdOWclibeGV/Sm0BCmrhMK2wbmTBUfZ+jGGKwQ61ynhleQITY9DoKbxlQtG9lDA=="
+    "deger": "/+CWc7aFufaH8cZfiGPNojYZOZzUI3ggBl+odlQaGGUqtoZi63P+oCGOzeOBNtXdlhf491vq7/ZOHPfFjLQ2DA=="
   }
 }

@@ -2,33 +2,33 @@
   "manifestSurum": 1,
   "paketSurum": "2026-10-09.2",
   "efektifTarih": "2026-10-09",
-  "minUygulamaSurum": "0.6.62",
+  "minUygulamaSurum": "0.6.63",
   "aciklama": "EK-4/A 2026/39 + SGK 13.06.2024 aile hekimi ilaç listesi",
-  "olusturulmaTarihi": "2026-10-08T05:32:15.915Z",
+  "olusturulmaTarihi": "2026-10-08T13:42:07.425Z",
   "dosyalar": [
     {
       "yol": "data/aile-index.json",
-      "sha256": "4d7ef025bad30932e4128e8d77ff43e4f42d8d110af757f440b50395d189d134",
+      "sha256": "60e216575ba5df2ff24a6ebe6b2960625c3c905f59ebe169802bfcf7ec6733ad",
       "boyut": 4615259
     },
     {
       "yol": "data/ai-paketleri-v2.json",
-      "sha256": "e256fd80e4e9f8b3a8f2bc33105af1ead2cd62ce9d4d154a52ebd73cb339932e",
+      "sha256": "c0f6a68a1c83b546ad3f7f76ccac333e1e40636a645e1663daedc50eb42f59db",
       "boyut": 12407611
     },
     {
       "yol": "data/ai-paketleri-v3.json",
-      "sha256": "bb04fb9a8dfe3fe9f2ae0bf3cd00b2718213b9c692024b898c574d2284613c0a",
+      "sha256": "d8885a03287c114a47f50a3e6e85c62684b859d9f821a3a7b97d1dd9ef0e2db2",
       "boyut": 11919383
     },
     {
       "yol": "data/bilesim-sira.json",
-      "sha256": "664423ac4e739e5520a963bfa9f34d68b03138b0ef418cf6d0ace0ee8c05dfcf",
+      "sha256": "0e49fd2e3d413c68360222dfa5e6a906255ce65efb96d24a2c277e0a15e0bb51",
       "boyut": 5699
     }
   ],
   "imza": {
     "algoritme": "ed25519",
-    "deger": "qPi5/UEFoNdJEcGNrQXJ6rdFQ6R8r41VyNcFw5j9A9VlSDyCIvs5wk7YSpyxbVdWpQbJLkU04+x5YZBaR1RNBQ=="
+    "deger": "khfKYLaxwOfONi/+I8cOsbv3QTvGn1NIsVmjkh6Qqhu8hpL5Z0NQs4iIkmHiUe8Ud/9YeXYunoB+DI8TcunYDQ=="
   }
 }
